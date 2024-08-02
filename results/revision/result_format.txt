@@ -1,0 +1,3 @@
+revised_max_time_disparity / original_max_time_disparity
+revised_max_passing_latency / original_max_passing_latency
+revised_max_reaction_latency / original_max_reaction_latency
